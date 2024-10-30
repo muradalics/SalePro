@@ -1,0 +1,21 @@
+[14-Oct-2024 08:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:157
+Stack trace:
+#0 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(950): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(584): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(271): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(799): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/kohidsem/public_html/mts.kohimoor.c in /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 157
+[14-Oct-2024 08:28:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:157
+Stack trace:
+#0 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(950): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(584): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(271): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(799): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/kohidsem/public_html/mts.kohimoor.c in /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 157
+[14-Oct-2024 08:28:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:157
+Stack trace:
+#0 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(950): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(584): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(271): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(799): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/kohidsem/public_html/mts.kohimoor.c in /home/kohidsem/public_html/mts.kohimoor.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 157
